@@ -1,0 +1,25 @@
+{
+  "clientes": [
+    {
+      "nombre": "Maria Belen Ceron",
+      "email": "mabelenceron@gmail.com",
+      "telefono": "0997702037",
+      "empresa": "Platzi",
+      "id": 27
+    },
+    {
+      "nombre": "Dominique Andrango",
+      "email": "domini@hotmail.com",
+      "telefono": "0998822312",
+      "empresa": "Coquitos",
+      "id": 29
+    },
+    {
+      "nombre": "Wilson Ceron",
+      "email": "wocea@gmail.com",
+      "telefono": "0991915352",
+      "empresa": "ESPE",
+      "id": 30
+    }
+  ]
+}

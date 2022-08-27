@@ -1,0 +1,6 @@
+{
+    "curly":true,     //Debe tener las llaves en los loops
+    "eqeqeq": true,   //Uso del operador de comparacion de igualar estricto
+    "maxparams":1,     //Maximo numero de parametros de una funcion
+    "esversion": 6
+}
